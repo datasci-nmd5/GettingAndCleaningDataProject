@@ -17,7 +17,7 @@ Sections within this document are as follows:
     * Preprocessing
   * Raw Variables
   * Tidy Variables
-    * <Variable Name for each variable>
+    * {Variable Name for each variable}
       * Description
       * Values
       * Units
