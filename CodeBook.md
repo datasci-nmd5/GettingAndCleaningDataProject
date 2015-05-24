@@ -137,7 +137,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAcc-mean()-Y
 #### Description
@@ -145,7 +145,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAcc-mean()-Z
 #### Description
@@ -153,7 +153,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAcc-mean()-X
 #### Description
@@ -161,7 +161,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAcc-mean()-Y
 #### Description
@@ -169,7 +169,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAcc-mean()-Z
 #### Description
@@ -177,7 +177,7 @@ Mean of the time domain signal measuring the gravity linear accelerationduring t
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerk-mean()-X
 #### Description
@@ -185,7 +185,7 @@ Mean of the jerk signals derived over time by measuring the body linear accelera
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerk-mean()-Y
 #### Description
@@ -193,7 +193,7 @@ Mean of the jerk signals derived over time by measuring the body linear accelera
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerk-mean()-Z
 #### Description
@@ -201,7 +201,7 @@ Mean of the jerk signals derived over time by measuring the body linear accelera
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyro-mean()-X
 #### Description
@@ -209,7 +209,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyro-mean()-Y
 #### Description
@@ -217,7 +217,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyro-mean()-Z
 #### Description
@@ -225,7 +225,7 @@ Mean of the time domain signal measuring the body linear acceleration during the
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerk-mean()-X
 #### Description
@@ -233,7 +233,7 @@ Mean of the jerk signals derived over time by measuring the body linear accelera
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerk-mean()-Y
 #### Description
@@ -241,7 +241,7 @@ Mean of the jerk signals derived over time by measuring the body linear accelera
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerk-mean()-Z
 #### Description
@@ -249,7 +249,7 @@ Mean of the jerk signals derived over time by measuring the body linear accelera
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccMag-mean()
 #### Description
@@ -257,7 +257,7 @@ Mean of the magnitudes of the time domain signal measuring the body linear accel
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAccMag-mean()
 #### Description
@@ -265,7 +265,7 @@ Mean of the magnitudes of the time domain signal measuring the gravity linear ac
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerkMag-mean()
 #### Description
@@ -273,7 +273,7 @@ Mean of the magnitudes of the jerk signals derived over time by measuring the bo
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroMag-mean()
 #### Description
@@ -281,7 +281,7 @@ Mean of the magnitudes of the time domain signal measuring the body linear accel
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerkMag-mean()
 #### Description
@@ -289,7 +289,7 @@ Mean of the magnitudes of the jerk signals derived over time by measuring the bo
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### fBodyAcc-mean()-X
 #### Description
@@ -561,7 +561,7 @@ Standard Deviation of the time domain signal measuring the body linear accelerat
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAcc-std()-Y
 #### Description
@@ -569,7 +569,7 @@ Standard Deviation of the time domain signal measuring the body linear accelerat
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAcc-std()-Z
 #### Description
@@ -577,7 +577,7 @@ Standard Deviation of the time domain signal measuring the body linear accelerat
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAcc-std()-X
 #### Description
@@ -585,7 +585,7 @@ Standard Deviation of the time domain signal measuring the gravity linear accele
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAcc-std()-Y
 #### Description
@@ -593,7 +593,7 @@ Standard Deviation of the time domain signal measuring the gravity linear accele
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAcc-std()-Z
 #### Description
@@ -601,7 +601,7 @@ Standard Deviation of the time domain signal measuring the gravity linear accele
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerk-std()-X
 #### Description
@@ -609,7 +609,7 @@ Standard Deviation of the jerk signals derived over time by measuring the body l
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerk-std()-Y
 #### Description
@@ -617,7 +617,7 @@ Standard Deviation of the jerk signals derived over time by measuring the body l
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerk-std()-Z
 #### Description
@@ -625,7 +625,7 @@ Standard Deviation of the jerk signals derived over time by measuring the body l
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyro-std()-X
 #### Description
@@ -633,7 +633,7 @@ Standard Deviation of the time domain signal measuring the body linear accelerat
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyro-std()-Y
 #### Description
@@ -641,7 +641,7 @@ Standard Deviation of the time domain signal measuring the body linear accelerat
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyro-std()-Z
 #### Description
@@ -649,7 +649,7 @@ Standard Deviation of the time domain signal measuring the body linear accelerat
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerk-std()-X
 #### Description
@@ -657,7 +657,7 @@ Standard Deviation of the jerk signals derived over time by measuring the body l
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerk-std()-Y
 #### Description
@@ -665,7 +665,7 @@ Standard Deviation of the jerk signals derived over time by measuring the body l
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerk-std()-Z
 #### Description
@@ -673,7 +673,7 @@ Standard Deviation of the jerk signals derived over time by measuring the body l
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccMag-std()
 #### Description
@@ -681,7 +681,7 @@ Standard Deviation of the magnitudes of the time domain signal measuring the bod
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tGravityAccMag-std()
 #### Description
@@ -689,7 +689,7 @@ Standard Deviation of the magnitudes of the time domain signal measuring the gra
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyAccJerkMag-std()
 #### Description
@@ -697,7 +697,7 @@ Standard Deviation of the magnitudes of the jerk signals derived over time by me
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroMag-std()
 #### Description
@@ -705,7 +705,7 @@ Standard Deviation of the magnitudes of the time domain signal measuring the bod
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### tBodyGyroJerkMag-std()
 #### Description
@@ -713,7 +713,7 @@ Standard Deviation of the magnitudes of the jerk signals derived over time by me
 #### Values
 Features are normalized and bounded within [-1,1].
 #### Units
-Radians/second.
+Seconds.
 
 ### fBodyAcc-std()-X
 #### Description
@@ -818,4 +818,5 @@ Standard Deviation of the magnitudes of the jerk signals derived from frequency 
 Features are normalized and bounded within [-1,1].
 #### Units
 Radians/second.
+
 
